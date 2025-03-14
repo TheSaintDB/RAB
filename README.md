@@ -28,7 +28,12 @@ Tasks are completed in the order that they are added. You can change the order o
 </p>
 
 ## Setup Selector
-(Add content here)
+
+You can open the setup selector by pressing the Inventory/Equipment button after adding a Task that requires you to setup the Inventory/Equipment items.
+
+<p align="center">
+  <img src="/images/setup-selector-button.png" alt="Setup selector button Image">
+</p>
 
 ## Muling Settings
 (Add content here)
