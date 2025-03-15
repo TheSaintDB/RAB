@@ -142,8 +142,7 @@ For example, imagine you are killing cows in Lumbridge. When the cow is killed, 
   - **target = 100ms**: The ideal or desired delay.
   - **deviation = 300ms**: The allowed deviation from the target.
 
-**Without Weighted Distribution (Uniform Distribution)**:
-If `weightedDistribution` is `false`, the timing will be uniformly distributed between `min` (50ms) and `max` (1500ms). This means:
+**Weighted Distribution Disabled**:
 - Every value between 50ms and 1500ms is equally likely to occur.
 - The `target` (100ms) and `deviation` (300ms) have no effect on the distribution.
 
@@ -151,8 +150,7 @@ If `weightedDistribution` is `false`, the timing will be uniformly distributed b
 - The timing could be any value between 50ms and 1500ms, with no preference for values closer to the target (100ms).
 - For example, you might get 50ms, 500ms, 1000ms, or 1500ms, all with equal probability.
 
-**With Weighted Distribution**:
-If `weightedDistribution` is `true`, the timing will be weighted towards the `target` (100ms), with the `deviation` (300ms) influencing how tightly the values cluster around the target. This means:
+**Weighted Distribution Enabled**:
 - Values closer to the target (100ms) are more likely to occur.
 - Values farther from the target are less likely to occur.
 - The `deviation` (300ms) determines the spread of the distribution around the target.
