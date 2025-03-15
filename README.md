@@ -23,15 +23,13 @@ There are 3 types of tasks to choose from:
 
 Tasks are completed in the order that they are added. You can change the order of the tasks using the up/down arrow and dispose of a task using the X.
 
-<p align="center">
-  <img src="/images/AddingTasks.gif" alt="Header Image">
-</p>
+<img src="/images/AddingTasks.gif" alt="Header Image">
 
 ## Setup Selector
 ### Opening the Setup Selector
 You can open the setup selector by pressing the Inventory/Equipment button after adding a Task that requires you to setup the Inventory/Equipment items.
 
-The items you select will be used for ***this task only***.
+The items you select will be used for **this task only**.
 
 <img src="/images/setup-selector-button.png" alt="Setup selector button Image">
 
