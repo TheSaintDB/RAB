@@ -104,6 +104,11 @@ You can enter your Discord webhook URL to receive Discord notifications.
 
 ![Antiban Settings](/images/antiban-settings.png)
 
+### Antiban Manager
+Once you have created Antiban Profile(s), add them to the Added profiles section of the Antiban Manager to allow the bot to use them. If you add multiple profiles the bot will rotate between profiles at random times depending on the min/max values you set. This may simulate a normal player who might have different play styles depending on fatigue etc.
+
+![Antiban Manager](/images/antiban-manager.gif)
+
 ### Creating an Antiban Profile
 
 #### Banking Settings
@@ -124,14 +129,14 @@ These will affect interactions that take place when interacting with NPCs or gam
 #### Inventory Settings
 These will affect interactions that take place when interacting with items in your inventory, such as eating food, drinking a potion, or equipping an item.
 
-![Inventory Settings](/images/inventoryy-settings.png)
+![Inventory Settings](/images/inventory-settings.png)
 
 #### Interaction Settings Explanation
 - **Interaction Delay**: An interaction delay is a delay that takes place before a bot performs an action.
 
 For example, imagine you are killing cows in Lumbridge. When the cow is killed, you wouldn't instantly click the next cow to attack. A real human would have a small delay before moving onto the next cow. This is the interaction delay.
 
-- **Interaction Delay Settings**:
+- **Interaction Delay Example Settings**:
   - **min = 50ms**: The minimum possible delay.
   - **max = 1500ms**: The maximum possible delay.
   - **target = 100ms**: The ideal or desired delay.
