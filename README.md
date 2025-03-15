@@ -33,33 +33,38 @@ The items you select will be used for **this task only**.
 
 <img src="/images/setup-selector-button.png" alt="Setup selector button Image">
 
+### Setup Selector Guidelines
+Upon opening the Setup Selector, you will be greeted with the Setup Selector Guidelines. If you have not read these already, please ensure that you do for a smooth experience.
+
+<img src="/images/setup-selector-guidelines.png" alt="Setup selector guidelines Image">
+
 ### Selecting your Ranged Levels
 First, select your range levels for which you want to use this Equipment/Inventory setup. In this example i have selected from level 1 Ranged to level 20 Ranged.
 This means that whatever equipment/inventory items i add, this is what the bot will use to train from level 1 to 20 ranged.
 
-<img src="/images/selecting-range-level.gif" alt="Setup selector button Image">
+<img src="/images/selecting-range-level.gif" alt="Setup selector ranged levels Image">
 
 ### Adding items
 To add items to your equipment or inventory, first select the equipment or inventory panel and then select items from the list of items. 
 
 When selecting equipment items, if you already have selected an item for a slot such as weapon, if you select another weapon it will overwrite your previous choice.
 
-<img src="/images/adding-items-to-selector.gif" alt="Setup selector button Image">
+<img src="/images/adding-items-to-selector.gif" alt="Setup selector adding items Image">
 
 ### Clearing your Selections
 To clear your selections just double click on the panel which you want to clear.
 
-<img src="/images/clearing-setup-selector.gif" alt="Setup selector button Image">
+<img src="/images/clearing-setup-selector.gif" alt="Setup selector clearing selections Image">
 
 ### Adding more Setups
-You can add more setups so that the bot which switch into different equipment/inventory setups automatically for different range levels.
+You can add more setups so that the bot will switch into different equipment/inventory setups automatically for different range levels.
 
-<img src="/images/adding-new-setup-tab.gif" alt="Setup selector button Image">
+<img src="/images/adding-new-setup-tab.gif" alt="Setup selector adding more setups Image">
 
 ### Saving and Loading Setups
 You can load/save your setups and use them for later use to save time.
 
-<img src="/images/load-save-setup-profile.gif" alt="Setup selector button Image">
+<img src="/images/load-save-setup-profile.gif" alt="Setup selector saving/loading setups Image">
 
 ## Muling Settings
 (Add content here)
