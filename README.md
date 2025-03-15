@@ -35,6 +35,38 @@ You can open the setup selector by pressing the Inventory/Equipment button after
   <img src="/images/setup-selector-button.png" alt="Setup selector button Image">
 </p>
 
+First, select your range levels for which you want to use this Equipment/Inventory setup. In this example i have selected from level 1 Ranged to level 20 Ranged.
+This means that whatever equipment/inventory items i add, this is what the bot will use to train from level 1 to 20 ranged.
+
+<p align="center">
+  <img src="/images/selecting-range-level.gif" alt="Setup selector button Image">
+</p>
+
+To add items to your equipment or inventory, first select the equipment or inventory panel and then select items from the list of items. 
+When selecting equipment items, if you already have selected an item for a slot such as weapon, if you select another weapon it will overwrite your previous choice.
+
+<p align="center">
+  <img src="/images/adding-items-to-selector.gif" alt="Setup selector button Image">
+</p>
+
+To clear your selections just double click on the panel which you want to clear.
+
+<p align="center">
+  <img src="/images/clearing-setup-selector.gif" alt="Setup selector button Image">
+</p>
+
+You can add more setups so that the bot which switch into different equipment/inventory setups automatically for different range levels.
+
+<p align="center">
+  <img src="/images/adding-new-setup-tab.gif" alt="Setup selector button Image">
+</p>
+
+You can load/save your setups and use them for later use to save time.
+
+<p align="center">
+  <img src="/images/load-save-setup-profile.gif" alt="Setup selector button Image">
+</p>
+
 ## Muling Settings
 (Add content here)
 
