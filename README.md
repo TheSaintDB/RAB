@@ -186,5 +186,7 @@ For example, imagine you are killing cows in Lumbridge. When the cow is killed, 
 ## Save/Load Settings
 You can save your current settings and load them later for convenience.
 
+![Presets](/images/save-load-tasks.gif)
+
 ---
 
